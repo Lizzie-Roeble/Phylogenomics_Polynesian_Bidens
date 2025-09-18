@@ -10,7 +10,7 @@ Building on previous phylogenetic studies of Polynesian Bidens (Knope et al., [2
 
 Scripts: Helper scripts for running the pipeline from raw sequences to alignments and phylogenetic inference.
 
-[Resources](https://github.com/Lizzie-Roeble/Phylogenomics_Polynesian_Bidens/tree/main/resources]: Sample namelists and cleaned target files to get started with the pipeline.
+[Resources](https://github.com/Lizzie-Roeble/Phylogenomics_Polynesian_Bidens/tree/main/resources): Sample namelists and cleaned target files to get started with the pipeline.
 
 [Wiki](https://github.com/Lizzie-Roeble/Phylogenomics_Polynesian_Bidens/wiki/Target-Capture-Bioinformatics): Detailed step-by-step guide explaining the pipeline, software setup, project structure, and analysis workflow.
 
