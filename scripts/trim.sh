@@ -5,7 +5,8 @@
 #SBATCH --cpus-per-task=4
 #SBATCH --mem=8GB
 #SBATCH --job-name=trimmomatic_batch
-#SBATCH --output=trimmomatic_%j.out
+#SBATCH --output=../1_trimmed/logs/trimmomatic_%j.out
+#SBATCH --error=../1_trimmed/logs/trimmomatic_%j.err
 
 # Start: Run this from the 0_raw_sequences/Island directory
 
