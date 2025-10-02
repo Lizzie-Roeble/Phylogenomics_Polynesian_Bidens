@@ -8,7 +8,7 @@ Building on previous phylogenetic studies of Polynesian _Bidens_ (Knope et al., 
 
 ## What’s in this repository
 
-Scripts: Helper scripts for running the pipeline from raw sequences to alignments and phylogenetic inference.
+[Scripts](https://github.com/Lizzie-Roeble/Phylogenomics_Polynesian_Bidens/tree/main/scripts): Helper scripts for running the pipeline from raw sequences to alignments and phylogenetic inference.
 
 [Resources](https://github.com/Lizzie-Roeble/Phylogenomics_Polynesian_Bidens/tree/main/resources): Sample namelists and cleaned target files to get started with the pipeline.
 
